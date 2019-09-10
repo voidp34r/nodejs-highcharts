@@ -10,17 +10,29 @@ A lightweight foundation for your next webpack based frontend project.
 ```
 npm install
 ```
+or
+```
+yarn install
+```
 
 ### Start Dev Server
 
 ```
 npm start
 ```
+or
+```
+yarn start
+```
 
 ### Build Prod Version
 
 ```
 npm run build
+```
+or
+```
+yarn run build
 ```
 
 ### Features:

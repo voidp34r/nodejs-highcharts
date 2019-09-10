@@ -30,7 +30,7 @@ module.exports = merge(common, {
       },
       {
         test: /\.(js)$/,
-        include: Path.resolve(__dirname, '../src'),
+        include: Path.resolve(__dirname, '../src', '../highcharts'),
         loader: 'babel-loader'
       },
       {

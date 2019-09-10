@@ -1,5 +1,5 @@
 {
-  "name": "webpack-starter",
+  "name": "nodejs-highcharts",
   "version": "1.0.0",
   "description": "A light foundation for your next frontend project based on webpack.",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wbkd/webpack-starter.git"
+    "url": "git+https://github.com/voidp34r/nodejs-highcharts.git"
   },
   "keywords": [
     "webpack",
@@ -21,7 +21,7 @@
   "author": "webkid.io",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wbkd/webpack-starter/issues"
+    "url": "https://github.com/voidp34r/nodejs-highcharts/issues"
   },
   "devDependencies": {
     "@babel/core": "^7.4.0",
